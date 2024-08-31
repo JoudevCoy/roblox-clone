@@ -47,10 +47,10 @@ const Content = () => {
         setTimeout(() => {
           setGames(data);
           setIsPending(false);
-          alert(" berhasil ");
+          
         }, 1000);
       })
-      .catch(err => alert(err))
+      .catch(err => containerRef.current.innerHTML = err.message)
   }, []);
   
   return(
