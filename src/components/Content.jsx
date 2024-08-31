@@ -40,7 +40,7 @@ const Content = () => {
   
   useEffect(() => {
     setIsPending(true);
-    let url = "/src/games.json";
+    let url = "https://raw.githubusercontent.com/JoudevCoy/roblox-clone/main/src/games.json";
     fetch(url)
       .then(res => res.json())
       .then(data => {
