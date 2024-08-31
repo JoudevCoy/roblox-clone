@@ -1,0 +1,300 @@
+[
+  {
+    "name": "recomended",
+    "content": [
+      {
+        "game_title": "Lari Agar Selamat",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 100
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      },
+      {
+        "game_title": "Pengantar Pizza",
+        "game_thumb": "/src/assets/pengantar-pizza.jpg",
+        "info": {
+          "ratings": 100
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "continue",
+    "content": [
+      {
+        "game_title": "GAME PALING SCARY MENURUT WINDAH BASUDARA",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 100,
+          "playing": 800
+        }
+      },
+      {
+        "game_title": "Game Furry",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 100,
+          "playing": 25
+        }
+      },
+      {
+        "game_title": "Lari Agar Selamat",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 80,
+          "playing": 25
+        }
+      },
+      {
+        "game_title": "Lari Agar Selamat",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 80,
+          "playing": 25
+        }
+      },
+      {
+        "game_title": "Lari Agar Selamat",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 80,
+          "playing": 25
+        }
+      },
+      {
+        "game_title": "Lari Agar Selamat",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 80,
+          "playing": 25
+        }
+      },
+      {
+        "game_title": "Lari Agar Selamat",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 80,
+          "playing": 25
+        }
+      },
+      {
+        "game_title": "Lari Agar Selamat",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 80,
+          "playing": 25
+        }
+      },
+      {
+        "game_title": "Lari Agar Selamat",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 80,
+          "playing": 25
+        }
+      }
+    ]
+  },
+  {
+    "name": "foryou",
+    "content": [
+      [
+        {
+          "game_title": "Pengantar Pizza",
+          "game_thumb": "/src/assets/pengantar-pizza.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "Lari Agar Selamat",
+          "game_thumb": "/src/assets/game-thumb.png",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "Pengantar Pizza",
+          "game_thumb": "/src/assets/pengantar-pizza.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "Pengantar Pizza",
+          "game_thumb": "/src/assets/pengantar-pizza.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "Pengantar Pizza",
+          "game_thumb": "/src/assets/pengantar-pizza.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "Pengantar Pizza",
+          "game_thumb": "/src/assets/pengantar-pizza.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        }
+      ],
+      [
+        {
+          "game_title": "GAME FURRY KHUSUS JAWIR",
+          "game_thumb": "/src/assets/furry.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "GAME FURRY KHUSUS JAWIR",
+          "game_thumb": "/src/assets/furry.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "GAME FURRY KHUSUS JAWIR",
+          "game_thumb": "/src/assets/furry.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "GAME FURRY KHUSUS JAWIR",
+          "game_thumb": "/src/assets/furry.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "GAME FURRY KHUSUS JAWIR",
+          "game_thumb": "/src/assets/furry.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "GAME FURRY KHUSUS JAWIR",
+          "game_thumb": "/src/assets/furry.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        },
+        {
+          "game_title": "GAME FURRY KHUSUS JAWIR",
+          "game_thumb": "/src/assets/furry.jpg",
+          "info": {
+            "ratings": 60,
+            "playing": 8
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "name": "recomended",
+    "content": [
+      {
+        "game_title": "Lari Agar Selamat",
+        "game_thumb": "/src/assets/game-thumb.png",
+        "info": {
+          "ratings": 100
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      },
+      {
+        "game_title": "Pengantar Pizza",
+        "game_thumb": "/src/assets/pengantar-pizza.jpg",
+        "info": {
+          "ratings": 100
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      },
+      {
+        "game_title": "GAME FURRY KHUSUS JAWIR",
+        "game_thumb": "/src/assets/furry.jpg",
+        "info": {
+          "ratings": 25
+        }
+      }
+    ]
+  }
+]
