@@ -47,9 +47,10 @@ const Content = () => {
         setTimeout(() => {
           setGames(data);
           setIsPending(false);
+          alert(" berhasil ");
         }, 1000);
       })
-      .catch(err => console.error(err))
+      .catch(err => alert(err))
   }, []);
   
   return(
